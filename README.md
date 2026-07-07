@@ -1,13 +1,5 @@
 ## Bem-vindo(a) ao perfil do Sallesbetto 😁
 
- <div>
-   <a href="https://github.com/sallesbetto">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sallesbetto&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallesbetto&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-  
- 
-<br>
  
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
